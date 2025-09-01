@@ -1,6 +1,6 @@
 # React + Tailwind CSS: Build a Beautiful and Responsive UI Fast
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68b51c81f0676a1d3ad60a0d/react-tailwind-css-build-a-beautiful-and-responsive-ui-fast).
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
